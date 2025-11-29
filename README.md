@@ -7,7 +7,7 @@ Lista wymagań, które powinno zawierać MVP:
 - [ ] Rejestracja i autoryzacja użytkowników
 - [ ] Podstawowa logika biznesowa
 - [ ] Eksport/Import danych
-- [x] Inicjalizacja repozytorium i środowiska pracy
+- [ ] Inicjalizacja repozytorium i środowiska pracy
 ## 3. Stos Technologiczny
 * **Język programowania:** Python / C# / JavaScript* **Środowisko:** Visual Studio Code
 * **Inne:** (np. planowana baza danych)
